@@ -14,7 +14,7 @@ Just a rookie who knows nothing<br>
 
 # <div align="center">__**sᴏᴄɪᴀʟ**__</div>
 
-+ Discord - [dsc.bio/imposstura](https://dsc.bio/imposstura) (IMPOSSTURA#3390)
++ Discord - [dsc.bio/imposstura](https://dsc.bio/imposstura) (A user#4017)
 
 # <div align="center">__**sᴛᴀᴛs**__</div>
-![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GiornoRetr0&layout=compact&theme=dark)
+![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GiornoRetr0&layout=compact&theme=gradient)
